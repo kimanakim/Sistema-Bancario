@@ -21,7 +21,7 @@ Alguns requisitos foram solicitados para o projeto, como o fato de um saque não
 
 # Aplicação
 
-###### Acesse a aplicação  <a href="sistema">aqui
+###### Acesse a aplicação  <a href="sistema.py">aqui
 
 # Autora
 
